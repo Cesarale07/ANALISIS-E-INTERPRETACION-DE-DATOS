@@ -1,0 +1,1001 @@
+m_age;weeks;premature;visits;gained;weight;sex_baby;smoke
+30;39;full term;13;1;6,88;male;smoker
+36;39;full term;5;35;7,69;male;nonsmoker
+35;40;full term;12;29;8,88;male;nonsmoker
+40;40;full term;13;30;9;female;nonsmoker
+37;40;full term;7;10;7,94;male;nonsmoker
+28;40;full term;12;35;8,25;male;smoker
+35;28;premie;6;29;1,63;female;nonsmoker
+21;35;premie;9;15;5,5;female;smoker
+20;32;premie;5;40;2,69;male;smoker
+25;40;full term;13;34;8,75;female;nonsmoker
+19;32;premie;5;32;6,5;female;nonsmoker
+34;40;full term;15;20;7,44;male;nonsmoker
+19;41;full term;13;47;8,38;male;smoker
+33;38;full term;10;20;6;male;nonsmoker
+27;39;full term;11;5;7,81;male;smoker
+23;38;full term;13;22;7,81;female;nonsmoker
+40;36;premie;13;23;7,81;female;nonsmoker
+23;40;full term;10;30;7,31;male;nonsmoker
+27;33;premie;6;18;4,75;male;smoker
+22;34;premie;10;20;3,75;male;nonsmoker
+31;37;full term;12;37;8,06;female;nonsmoker
+38;32;premie;10;16;2,19;female;smoker
+26;42;full term;15;30;7,38;male;smoker
+30;39;full term;10;43;6,88;female;nonsmoker
+22;40;full term;16;34;6,88;female;smoker
+25;38;full term;19;13;7,63;female;nonsmoker
+33;43;full term;13;25;9,13;male;smoker
+20;39;full term;15;70;7,38;female;smoker
+28;37;full term;13;35;8,25;female;nonsmoker
+26;39;full term;15;45;7,19;female;nonsmoker
+27;39;full term;14;31;7,56;female;nonsmoker
+21;36;premie;15;10;6,81;male;nonsmoker
+24;38;full term;16;50;3,75;female;nonsmoker
+25;38;full term;11;27;8,75;male;nonsmoker
+30;37;full term;10;57;6,56;male;nonsmoker
+25;40;full term;11;26;7,44;male;nonsmoker
+25;39;full term;5;37;6;female;smoker
+21;39;full term;18;13;7,75;female;nonsmoker
+30;39;full term;9;42;7,81;male;smoker
+24;39;full term;6;30;6,13;female;smoker
+23;42;full term;9;22;8,81;male;nonsmoker
+26;39;full term;14;65;7,75;female;smoker
+28;38;full term;10;25;6,88;male;nonsmoker
+22;35;premie;12;30;4,69;male;nonsmoker
+25;35;premie;15;18;6,75;male;nonsmoker
+22;39;full term;12;30;6,94;female;smoker
+25;35;premie;15;40;4,5;male;smoker
+23;44;full term;4;55;8,13;female;smoker
+22;40;full term;10;85;5,81;male;nonsmoker
+32;37;full term;8;30;6,81;female;nonsmoker
+34;38;full term;11;23;7,25;male;nonsmoker
+22;39;full term;14;29;7,19;female;nonsmoker
+31;40;full term;10;45;8;female;nonsmoker
+26;39;full term;12;40;8,38;male;nonsmoker
+26;39;full term;12;31;7,31;male;smoker
+34;39;full term;12;57;9,69;male;nonsmoker
+40;38;full term;13;38;7,31;male;nonsmoker
+18;37;full term;8;25;6,19;male;smoker
+38;41;full term;15;35;10,13;female;nonsmoker
+28;39;full term;13;0;7,5;female;nonsmoker
+31;40;full term;15;32;6,25;male;nonsmoker
+27;39;full term;12;58;8,56;male;smoker
+18;41;full term;10;11;6,5;female;nonsmoker
+29;44;full term;12;51;8,5;male;nonsmoker
+24;39;full term;11;62;7,5;female;nonsmoker
+35;38;full term;10;20;6,44;female;smoker
+31;36;premie;8;42;5,94;male;smoker
+20;34;premie;13;6;4,5;male;nonsmoker
+19;39;full term;11;48;8,38;female;smoker
+31;41;full term;5;20;7,06;female;smoker
+27;41;full term;15;38;7;male;smoker
+21;41;full term;8;26;5,94;female;nonsmoker
+30;39;full term;15;44;6,38;male;smoker
+20;37;full term;10;26;5,38;female;smoker
+16;40;full term;4;12;6;female;nonsmoker
+34;37;full term;17;35;6,88;female;nonsmoker
+26;41;full term;10;68;9,31;male;nonsmoker
+22;40;full term;13;0;6,5;male;smoker
+32;38;full term;6;27;6,75;female;nonsmoker
+37;38;full term;5;45;5,13;male;nonsmoker
+37;38;full term;3;18;7,5;male;smoker
+36;38;full term;4;25;6,88;male;smoker
+32;33;premie;10;60;5,06;male;nonsmoker
+24;41;full term;12;40;8,13;male;smoker
+29;39;full term;14;30;5,38;male;nonsmoker
+24;40;full term;11;8;7,69;female;nonsmoker
+23;41;full term;14;19;7,88;female;nonsmoker
+21;41;full term;13;40;7,88;female;nonsmoker
+29;39;full term;15;24;8,25;female;nonsmoker
+25;41;full term;13;50;7,75;female;nonsmoker
+25;40;full term;10;25;7;male;nonsmoker
+41;33;premie;13;0;5,69;female;nonsmoker
+23;42;full term;14;23;6,75;male;nonsmoker
+34;41;full term;10;35;8,19;female;nonsmoker
+19;40;full term;12;36;8,19;male;nonsmoker
+31;39;full term;15;35;7,44;male;nonsmoker
+36;38;full term;18;37;8,25;male;nonsmoker
+25;40;full term;7;31;9,19;male;nonsmoker
+31;40;full term;14;44;7,5;female;nonsmoker
+33;40;full term;16;30;6,81;male;nonsmoker
+25;40;full term;12;35;8,13;male;nonsmoker
+20;41;full term;16;21;6,31;female;smoker
+22;39;full term;12;32;8,38;male;nonsmoker
+26;38;full term;14;40;8;male;smoker
+27;39;full term;16;24;8,88;male;smoker
+20;40;full term;17;39;9,06;male;smoker
+17;38;full term;11;30;9,5;female;nonsmoker
+18;40;full term;12;13;8,75;male;nonsmoker
+33;39;full term;10;40;8,06;male;nonsmoker
+23;39;full term;15;56;7,31;male;smoker
+16;38;full term;15;75;7,56;female;smoker
+20;38;full term;8;45;7,44;female;nonsmoker
+35;38;full term;17;55;7,5;female;nonsmoker
+35;40;full term;16;32;7,31;female;nonsmoker
+30;39;full term;11;21;7,88;male;nonsmoker
+23;44;full term;14;40;6,81;male;nonsmoker
+20;37;full term;12;22;5,94;female;nonsmoker
+39;38;full term;10;35;6,75;male;smoker
+25;37;full term;8;53;7,69;female;nonsmoker
+21;38;full term;12;40;7,38;male;nonsmoker
+19;40;full term;16;37;7,94;male;smoker
+24;39;full term;8;22;5;female;smoker
+20;39;full term;16;35;5,63;female;nonsmoker
+23;43;full term;15;30;7,81;female;nonsmoker
+27;41;full term;14;58;8;male;nonsmoker
+18;33;premie;7;40;1,69;male;smoker
+23;38;full term;5;28;7,19;female;nonsmoker
+33;36;premie;11;15;6,31;male;smoker
+24;39;full term;8;23;6,88;female;smoker
+22;42;full term;7;21;6,5;female;nonsmoker
+17;29;premie;4;10;2,63;female;nonsmoker
+15;37;full term;12;76;8,44;male;nonsmoker
+20;41;full term;16;35;7,19;male;nonsmoker
+21;41;full term;12;32;8,38;male;nonsmoker
+17;40;full term;17;38;7,19;male;nonsmoker
+22;39;full term;12;27;6,31;female;smoker
+33;38;full term;15;60;6,56;male;nonsmoker
+21;40;full term;15;38;7,63;female;nonsmoker
+28;39;full term;15;40;8,38;male;nonsmoker
+29;41;full term;12;30;7,69;male;smoker
+23;36;premie;2;27;5,88;female;nonsmoker
+19;39;full term;7;0;7,31;male;smoker
+24;40;full term;12;46;6,88;male;nonsmoker
+35;37;full term;10;25;5,63;male;smoker
+29;38;full term;17;55;7;female;nonsmoker
+17;40;full term;15;20;7,63;female;nonsmoker
+37;39;full term;5;20;8,19;female;smoker
+32;37;full term;12;22;6;female;nonsmoker
+28;41;full term;10;30;8,13;male;nonsmoker
+37;26;premie;5;25;3,63;male;nonsmoker
+16;30;premie;11;48;5,95;female;smoker
+31;35;full term;17;22;9,94;female;smoker
+37;44;full term;8;12;8,65;female;smoker
+24;32;premie;11;49;8,51;male;nonsmoker
+32;31;full term;12;31;4,22;female;smoker
+28;41;full term;11;20;8,08;female;nonsmoker
+37;29;full term;18;28;4,97;male;smoker
+27;41;full term;18;15;9,61;male;smoker
+29;28;full term;6;37;3,42;female;nonsmoker
+36;32;full term;14;27;8,47;female;nonsmoker
+33;34;premie;2;17;3,98;male;smoker
+29;29;premie;5;21;3,59;male;smoker
+39;30;premie;15;19;8,39;male;nonsmoker
+39;27;premie;19;64;9,5;male;smoker
+25;40;full term;13;43;4,73;male;nonsmoker
+21;39;full term;7;82;5,06;male;smoker
+31;35;premie;3;8;4,85;female;nonsmoker
+35;31;full term;5;6;5,29;male;nonsmoker
+40;30;premie;15;62;2,4;female;nonsmoker
+19;39;full term;18;28;9,43;female;nonsmoker
+25;38;full term;11;33;5,31;female;smoker
+33;44;premie;8;69;1,36;female;smoker
+28;40;full term;19;83;9,11;female;smoker
+30;34;full term;18;25;5,8;female;nonsmoker
+41;34;premie;12;34;9,31;male;nonsmoker
+35;33;premie;14;85;7,46;female;smoker
+32;35;full term;6;67;7,56;male;smoker
+36;33;full term;11;75;4,16;male;smoker
+31;38;premie;4;68;5,3;female;nonsmoker
+24;41;premie;5;1;8,31;female;nonsmoker
+35;44;premie;11;45;7,49;female;smoker
+41;39;full term;9;15;9;male;smoker
+16;29;premie;16;16;7,35;male;smoker
+20;41;full term;18;32;1,07;female;nonsmoker
+17;27;premie;17;7;1,06;male;smoker
+32;40;full term;14;44;3,74;male;smoker
+32;29;premie;15;23;3,45;female;smoker
+25;33;premie;7;61;4,36;male;smoker
+20;27;full term;7;72;1,4;female;nonsmoker
+23;29;full term;4;78;8,92;male;smoker
+29;41;premie;17;42;3,92;female;smoker
+38;33;premie;12;24;7,98;male;nonsmoker
+35;29;premie;12;81;2,68;male;nonsmoker
+29;44;premie;10;80;5,88;male;smoker
+25;43;full term;4;82;6,97;female;nonsmoker
+35;30;full term;15;65;4,37;male;nonsmoker
+24;29;full term;13;5;9,17;female;smoker
+33;30;full term;5;29;8,05;male;smoker
+16;36;full term;12;27;9,09;female;smoker
+41;33;premie;18;82;5,84;male;nonsmoker
+38;34;full term;18;27;3,33;female;nonsmoker
+28;32;premie;3;23;5,43;male;smoker
+22;34;full term;10;79;6,73;female;nonsmoker
+29;27;full term;3;36;6,89;male;smoker
+35;37;premie;6;72;6,17;female;nonsmoker
+35;33;full term;5;67;7,51;male;smoker
+22;41;premie;2;53;2,09;male;smoker
+22;43;premie;18;59;8,01;male;smoker
+17;34;premie;7;59;7,85;male;smoker
+38;28;premie;3;16;6,72;male;nonsmoker
+25;37;full term;2;5;7,69;female;smoker
+37;33;full term;18;4;2,19;male;smoker
+39;41;premie;6;1;4,64;female;nonsmoker
+32;38;premie;7;81;4,18;male;nonsmoker
+21;32;premie;6;21;6,68;female;nonsmoker
+15;35;full term;19;42;6,51;male;nonsmoker
+32;36;premie;5;46;3,45;male;nonsmoker
+23;32;premie;6;26;9,13;male;nonsmoker
+28;43;premie;9;28;7,88;female;smoker
+38;27;full term;19;83;5,67;male;smoker
+36;43;full term;17;45;3,84;female;nonsmoker
+19;30;premie;8;28;5,72;male;nonsmoker
+18;38;premie;18;60;6,68;male;smoker
+31;39;full term;11;27;8,1;female;nonsmoker
+19;40;full term;13;60;1,83;male;smoker
+24;30;full term;6;68;8,37;female;smoker
+22;30;full term;2;37;8,68;male;smoker
+37;28;premie;5;83;3,14;female;smoker
+38;31;full term;12;31;5,07;female;nonsmoker
+20;43;premie;3;9;6,78;female;smoker
+21;33;full term;18;15;7,16;female;smoker
+31;29;premie;16;64;7,22;female;smoker
+31;33;full term;5;26;7,14;male;smoker
+17;34;full term;14;19;5,06;male;nonsmoker
+35;36;full term;3;82;1,59;male;nonsmoker
+26;26;premie;8;26;4,29;male;smoker
+33;36;premie;19;27;4,55;male;nonsmoker
+17;39;premie;8;75;1,52;female;nonsmoker
+32;41;premie;12;81;1,58;female;nonsmoker
+28;31;premie;17;19;4,61;female;nonsmoker
+37;40;full term;8;0;7,11;male;nonsmoker
+41;42;premie;2;38;8,46;male;smoker
+31;38;full term;12;13;4,84;female;nonsmoker
+27;39;premie;10;64;3,93;female;nonsmoker
+35;28;full term;3;75;6,61;female;nonsmoker
+30;33;premie;3;65;6,28;male;smoker
+34;36;premie;9;19;6,87;female;smoker
+39;27;premie;12;7;3,87;male;nonsmoker
+17;30;premie;9;10;9,22;female;smoker
+38;30;premie;2;48;7,67;male;smoker
+35;43;full term;13;46;7,94;male;nonsmoker
+32;27;premie;4;39;1,24;male;smoker
+19;43;full term;7;52;4,61;male;smoker
+29;27;full term;4;35;9,52;female;smoker
+20;36;full term;19;13;7,83;male;nonsmoker
+29;44;full term;3;73;1,33;male;smoker
+23;37;premie;6;11;3,84;female;smoker
+24;36;premie;16;3;7,79;female;smoker
+35;26;full term;12;74;7,2;female;smoker
+23;44;full term;9;30;5,34;female;smoker
+38;40;premie;8;45;7,3;male;nonsmoker
+24;38;premie;3;15;9,19;male;smoker
+38;42;premie;6;0;8,93;female;smoker
+36;30;premie;14;85;1,12;male;smoker
+33;33;full term;6;74;8,23;female;nonsmoker
+40;30;premie;19;75;1,35;female;smoker
+22;34;full term;8;74;6,65;male;smoker
+39;37;premie;3;44;7,36;female;nonsmoker
+38;30;full term;16;83;5,22;male;nonsmoker
+25;33;full term;3;19;7,28;female;nonsmoker
+35;36;premie;19;54;2,4;female;nonsmoker
+35;38;premie;12;21;2,56;female;nonsmoker
+37;30;full term;10;32;6,74;male;nonsmoker
+24;33;full term;6;58;6,46;female;nonsmoker
+26;40;full term;8;19;4,57;female;smoker
+24;37;full term;6;29;3,39;female;nonsmoker
+22;37;premie;3;79;9,63;female;nonsmoker
+26;43;premie;7;59;7,45;male;nonsmoker
+23;32;full term;17;63;3,89;female;smoker
+28;28;premie;4;12;5,67;male;smoker
+29;36;premie;11;50;9,27;female;smoker
+35;33;premie;4;37;9,91;female;nonsmoker
+17;42;full term;5;1;7,05;female;nonsmoker
+35;31;premie;12;58;4,56;female;smoker
+26;29;premie;6;0;7,23;female;nonsmoker
+32;27;full term;3;81;2,51;female;smoker
+30;29;full term;2;9;2,9;male;smoker
+37;44;premie;9;22;8,48;female;nonsmoker
+33;30;full term;19;61;6,63;male;nonsmoker
+23;29;premie;11;64;4,89;female;smoker
+31;41;premie;7;25;1,2;male;smoker
+39;39;premie;10;81;5,73;female;nonsmoker
+33;31;full term;14;25;1,62;female;smoker
+16;31;full term;10;48;4,49;female;smoker
+35;36;premie;18;72;1,17;male;nonsmoker
+34;43;premie;9;82;5,37;male;nonsmoker
+24;42;premie;5;56;3,18;male;nonsmoker
+26;37;full term;13;68;7,71;female;smoker
+39;30;premie;2;72;6,48;female;nonsmoker
+41;29;premie;9;62;9,03;male;smoker
+28;41;premie;16;80;4,19;female;smoker
+17;29;full term;10;0;9,25;female;smoker
+30;28;full term;14;10;6,19;female;smoker
+23;43;full term;2;82;6,92;female;smoker
+26;43;full term;13;5;2,75;female;smoker
+16;28;premie;17;30;1,41;female;nonsmoker
+35;39;premie;7;51;5,82;male;smoker
+40;32;premie;4;33;8,61;female;smoker
+41;37;premie;7;11;5,84;male;smoker
+31;29;premie;8;39;1;male;nonsmoker
+24;28;premie;9;64;5,63;female;nonsmoker
+33;29;full term;11;8;3,32;male;smoker
+34;26;premie;10;85;2,11;female;smoker
+20;28;full term;10;26;6,81;female;smoker
+32;32;full term;3;9;3,86;female;nonsmoker
+18;42;full term;15;68;5,88;female;smoker
+35;33;full term;10;22;7,58;male;nonsmoker
+31;44;premie;9;28;7,88;female;smoker
+24;39;premie;2;51;8,56;female;nonsmoker
+34;35;full term;14;19;3,85;female;smoker
+25;44;full term;15;72;9,52;male;smoker
+30;28;full term;6;45;5,46;female;nonsmoker
+34;40;full term;7;82;6,67;female;nonsmoker
+16;29;premie;13;36;8,94;female;nonsmoker
+28;36;full term;6;32;7,15;female;nonsmoker
+17;32;full term;8;0;3,05;female;smoker
+37;32;full term;2;48;2,85;female;nonsmoker
+31;26;full term;3;56;9,24;male;smoker
+26;39;full term;19;70;7,61;male;nonsmoker
+35;33;full term;14;67;3,98;female;nonsmoker
+39;44;premie;14;34;5,77;female;smoker
+15;40;premie;19;43;4,44;male;nonsmoker
+27;44;full term;19;27;8,14;female;nonsmoker
+21;40;full term;11;82;9,79;male;smoker
+35;39;full term;7;56;7,97;female;smoker
+35;38;full term;10;10;8,58;female;nonsmoker
+39;42;premie;2;80;6,59;female;nonsmoker
+16;31;full term;10;24;8,74;female;smoker
+36;26;premie;15;22;2,85;female;smoker
+29;40;premie;2;25;7,28;female;nonsmoker
+33;31;full term;14;48;9,76;male;nonsmoker
+36;30;premie;19;6;1,15;female;nonsmoker
+15;26;premie;11;84;4,21;male;nonsmoker
+23;37;premie;16;50;1,44;male;nonsmoker
+16;44;full term;6;33;9,41;male;smoker
+38;36;premie;14;20;7,71;male;nonsmoker
+29;36;premie;11;1;6,45;female;smoker
+24;34;premie;8;12;1,61;female;nonsmoker
+37;36;full term;19;82;3,48;female;smoker
+33;35;premie;8;31;6,27;female;nonsmoker
+31;38;full term;6;83;2,81;female;nonsmoker
+36;39;premie;19;12;9,45;female;nonsmoker
+28;33;premie;6;65;5,65;male;smoker
+39;31;premie;12;14;9,64;female;smoker
+21;37;full term;3;80;1,16;female;nonsmoker
+20;28;premie;18;40;5,63;female;smoker
+25;29;premie;2;2;5,17;female;nonsmoker
+30;42;premie;7;85;5,59;female;smoker
+31;30;full term;4;85;3,33;male;nonsmoker
+34;38;full term;13;65;9,83;female;nonsmoker
+36;35;premie;9;36;2,61;female;nonsmoker
+23;26;full term;15;83;4,02;female;nonsmoker
+30;43;full term;3;28;4,76;male;smoker
+39;44;premie;9;66;2,86;female;nonsmoker
+20;42;premie;7;50;4,32;male;nonsmoker
+36;44;premie;17;57;9,22;female;nonsmoker
+40;33;full term;9;84;6,81;female;smoker
+30;32;premie;13;26;7,94;female;nonsmoker
+30;44;full term;14;15;2,06;female;nonsmoker
+41;44;premie;10;41;1,73;female;smoker
+16;40;full term;7;5;9,38;female;nonsmoker
+26;38;full term;2;54;2,92;male;smoker
+27;32;full term;11;31;8,56;male;nonsmoker
+21;41;premie;17;43;4,42;male;nonsmoker
+27;27;full term;11;4;7,45;female;smoker
+30;30;full term;12;26;3,12;female;smoker
+29;38;full term;8;76;2,36;male;smoker
+37;36;premie;16;77;7,37;male;nonsmoker
+23;30;premie;11;12;8,01;female;nonsmoker
+23;43;premie;16;27;5,94;male;nonsmoker
+18;44;full term;6;63;6,18;male;smoker
+24;35;premie;14;50;4,74;male;smoker
+27;30;premie;19;78;1,9;male;nonsmoker
+29;28;full term;12;43;8,93;male;nonsmoker
+38;27;full term;2;64;4,91;male;nonsmoker
+28;37;premie;10;6;2,48;male;smoker
+29;30;premie;9;17;7,75;female;smoker
+35;34;premie;3;33;4,98;male;smoker
+32;31;full term;2;40;7,79;female;nonsmoker
+19;35;premie;6;63;4,61;male;nonsmoker
+26;32;full term;5;24;6,06;male;nonsmoker
+24;29;premie;5;84;5,97;female;smoker
+20;37;premie;15;29;3,44;female;nonsmoker
+38;30;full term;6;39;5,32;male;smoker
+21;44;premie;4;50;5,91;male;smoker
+38;38;premie;14;19;5,81;male;smoker
+27;27;premie;13;60;7,02;male;nonsmoker
+27;32;premie;10;66;8,9;male;smoker
+33;26;full term;18;50;4,27;female;smoker
+29;35;full term;8;83;1,86;female;smoker
+22;27;full term;5;1;2,64;male;nonsmoker
+19;37;premie;19;21;4,7;female;nonsmoker
+16;27;full term;17;81;7,31;female;smoker
+27;36;full term;7;81;9,55;male;nonsmoker
+38;33;full term;8;48;4,94;female;nonsmoker
+19;36;premie;19;65;6,7;male;nonsmoker
+24;42;premie;6;52;6,03;female;nonsmoker
+32;33;premie;17;28;4,1;male;nonsmoker
+31;43;full term;12;24;4,91;male;nonsmoker
+30;35;premie;18;21;4,97;male;smoker
+40;44;full term;13;13;6,81;female;nonsmoker
+39;38;full term;2;21;3,38;male;smoker
+26;27;full term;16;22;8,56;female;nonsmoker
+32;27;full term;9;71;9,37;male;smoker
+40;35;premie;17;44;2,42;female;smoker
+32;27;full term;16;16;7,87;female;nonsmoker
+22;37;premie;7;59;1,18;female;smoker
+24;26;premie;18;33;3,49;male;smoker
+15;41;full term;8;9;1,29;male;smoker
+15;39;full term;14;15;3,51;female;nonsmoker
+16;28;premie;17;34;4,8;female;nonsmoker
+35;26;premie;12;26;3,66;male;nonsmoker
+24;28;premie;2;20;4,79;male;smoker
+27;39;premie;5;39;5,88;female;smoker
+33;36;full term;13;30;7,84;male;smoker
+28;29;premie;16;74;3,83;female;smoker
+34;33;premie;16;0;1,19;male;nonsmoker
+16;27;full term;3;84;9,81;female;nonsmoker
+39;36;full term;13;1;7,71;female;nonsmoker
+40;30;full term;11;10;4,87;male;nonsmoker
+38;27;premie;18;45;3,2;male;nonsmoker
+20;30;full term;19;43;6,44;female;nonsmoker
+35;40;premie;8;78;6,96;male;nonsmoker
+21;32;premie;11;10;1,16;female;smoker
+40;26;premie;10;34;2,37;female;smoker
+25;43;full term;8;39;1,85;male;smoker
+24;29;premie;11;83;1,9;female;smoker
+17;35;full term;11;43;1,43;male;smoker
+26;30;full term;6;48;2,19;male;smoker
+38;40;full term;17;50;5,53;male;smoker
+36;30;premie;12;81;3,03;female;nonsmoker
+21;31;premie;3;69;5,12;female;smoker
+36;43;full term;19;50;9,29;female;nonsmoker
+28;38;premie;12;30;7,22;male;smoker
+22;29;premie;5;70;8,37;male;nonsmoker
+35;44;premie;7;13;8,71;female;smoker
+29;43;premie;2;52;8,09;male;smoker
+34;40;full term;10;9;6,04;female;nonsmoker
+22;35;premie;8;11;5,56;male;nonsmoker
+21;30;premie;5;26;6,13;male;smoker
+26;26;premie;15;62;3,15;male;nonsmoker
+33;41;full term;15;2;6,73;male;nonsmoker
+24;44;premie;18;79;1,18;female;nonsmoker
+19;43;premie;2;0;6,41;female;smoker
+26;38;premie;8;75;1,24;male;smoker
+36;39;premie;2;1;3,59;female;nonsmoker
+28;31;premie;11;27;4,13;male;smoker
+37;35;premie;16;0;9,6;male;smoker
+34;38;full term;11;4;4,94;male;smoker
+31;31;premie;14;34;9,95;female;nonsmoker
+33;43;full term;11;25;2,46;female;nonsmoker
+30;41;premie;9;74;7,73;male;smoker
+15;41;full term;17;0;2,34;male;nonsmoker
+38;41;premie;5;17;4,62;male;nonsmoker
+28;27;full term;15;84;9,46;female;nonsmoker
+38;41;premie;11;29;3,72;female;nonsmoker
+27;30;premie;5;31;6,76;male;nonsmoker
+38;39;full term;5;76;1,72;female;nonsmoker
+35;34;full term;13;77;9,48;male;smoker
+39;26;premie;18;25;8,21;female;smoker
+25;30;premie;9;24;7,27;female;smoker
+18;40;full term;9;54;7,69;female;smoker
+41;39;premie;16;0;7,79;female;nonsmoker
+38;27;premie;2;34;9,15;female;smoker
+16;43;premie;13;24;5,8;female;nonsmoker
+30;31;full term;8;63;7,47;male;smoker
+24;27;full term;8;80;8,08;male;smoker
+39;31;full term;17;49;7,38;male;nonsmoker
+19;34;premie;17;19;3,15;male;smoker
+19;39;premie;8;83;7,64;male;smoker
+38;39;full term;3;17;2,52;female;nonsmoker
+29;37;full term;11;31;1,09;male;smoker
+25;41;full term;2;63;3,44;male;smoker
+32;27;full term;5;15;2,41;male;nonsmoker
+35;40;full term;15;2;2,32;male;smoker
+37;38;full term;6;3;1,71;female;smoker
+41;31;premie;17;43;2,94;male;smoker
+34;32;full term;16;81;7,69;female;smoker
+19;43;premie;5;44;2,19;male;smoker
+29;36;premie;13;17;6,33;female;nonsmoker
+33;44;premie;15;60;9,33;male;nonsmoker
+32;27;premie;3;35;8,46;female;smoker
+32;30;premie;17;74;2,01;female;nonsmoker
+40;29;premie;19;12;1,14;female;nonsmoker
+15;26;premie;14;29;9,84;male;smoker
+39;30;full term;13;17;9,36;male;smoker
+31;44;full term;15;46;7,23;female;nonsmoker
+39;31;premie;9;64;7,37;male;smoker
+36;40;full term;17;47;6,73;female;nonsmoker
+39;38;full term;7;52;1,43;male;smoker
+19;30;full term;4;21;6,45;male;smoker
+22;37;premie;13;3;2,79;female;smoker
+15;27;premie;3;37;1,73;male;nonsmoker
+25;40;premie;18;30;3,77;female;smoker
+26;34;full term;5;0;5,73;male;nonsmoker
+32;30;premie;10;39;2,6;female;nonsmoker
+36;33;premie;9;23;4,85;male;smoker
+39;34;premie;7;77;1,65;male;nonsmoker
+27;27;premie;4;13;8,35;male;smoker
+35;42;premie;7;81;1,7;female;nonsmoker
+27;31;premie;10;49;4,6;female;nonsmoker
+21;37;full term;6;46;8,82;male;nonsmoker
+24;37;full term;19;5;8,68;male;nonsmoker
+15;41;premie;16;57;2,16;female;smoker
+41;26;full term;5;29;4,69;male;smoker
+41;30;premie;14;63;5,33;male;smoker
+35;38;full term;15;14;8,83;male;nonsmoker
+39;41;premie;2;75;9,82;female;smoker
+37;30;premie;6;66;5,12;male;smoker
+28;36;premie;9;42;2,74;male;smoker
+35;32;premie;16;45;2,03;male;nonsmoker
+21;37;premie;5;27;6,61;male;nonsmoker
+20;31;premie;11;76;2,12;male;smoker
+24;36;premie;4;67;9,7;female;smoker
+39;31;premie;9;45;8,65;male;nonsmoker
+18;41;full term;15;52;4,15;male;nonsmoker
+36;30;full term;17;58;4,96;male;nonsmoker
+30;28;premie;18;43;1,14;female;smoker
+22;28;premie;3;66;8,15;male;smoker
+16;34;premie;11;64;7,76;female;smoker
+16;29;premie;7;20;1,77;female;smoker
+36;33;premie;19;32;1,28;male;smoker
+39;37;premie;7;12;8,72;male;nonsmoker
+40;39;full term;8;59;9,68;female;nonsmoker
+16;42;premie;8;55;8,85;female;nonsmoker
+26;38;full term;12;54;1,03;male;nonsmoker
+15;38;full term;6;26;8,37;female;nonsmoker
+28;28;premie;14;78;9,69;male;nonsmoker
+41;36;full term;2;1;3,17;male;smoker
+19;30;premie;11;65;2,56;female;nonsmoker
+31;30;premie;17;58;8,3;male;nonsmoker
+33;35;premie;13;48;4,43;female;smoker
+26;43;full term;13;42;1,35;male;nonsmoker
+21;36;premie;8;84;7,54;female;smoker
+41;29;full term;7;26;6,76;male;smoker
+31;39;premie;8;26;6,96;male;nonsmoker
+15;30;premie;7;63;7,42;female;nonsmoker
+19;29;premie;9;34;3,64;male;nonsmoker
+37;29;full term;2;57;6,37;female;nonsmoker
+28;30;premie;4;28;2,81;female;nonsmoker
+37;40;premie;15;66;8,1;male;smoker
+25;32;full term;6;19;3,77;female;nonsmoker
+25;41;full term;10;69;1,11;male;nonsmoker
+29;42;full term;17;16;9,46;male;smoker
+24;44;full term;12;20;1,41;female;nonsmoker
+38;35;premie;6;64;3,21;male;smoker
+36;38;full term;8;50;5,77;male;smoker
+41;44;premie;8;47;8,32;female;smoker
+24;43;full term;5;40;8,46;female;nonsmoker
+40;27;full term;14;81;9,04;male;nonsmoker
+26;31;premie;11;72;7,34;female;nonsmoker
+24;30;full term;7;54;6,25;male;smoker
+38;40;full term;5;26;1,17;female;nonsmoker
+17;41;premie;3;56;1,8;male;nonsmoker
+29;35;full term;5;70;9,45;male;smoker
+24;29;premie;8;1;7,48;male;nonsmoker
+18;37;full term;2;20;6,36;female;smoker
+25;31;premie;16;69;7,37;female;smoker
+21;43;full term;12;85;9,86;male;smoker
+39;42;full term;2;0;4,18;female;smoker
+36;26;premie;8;43;9,96;female;smoker
+35;31;full term;17;41;6,79;female;smoker
+38;41;full term;9;81;1,11;male;smoker
+16;42;premie;17;57;6,23;female;nonsmoker
+35;41;premie;19;67;4,69;female;nonsmoker
+21;28;premie;15;48;6,04;female;nonsmoker
+18;29;full term;6;17;3,93;male;smoker
+36;29;premie;7;68;1,75;female;nonsmoker
+37;27;premie;4;25;2,19;female;nonsmoker
+17;31;premie;2;1;3,18;male;nonsmoker
+39;40;premie;10;8;10;female;smoker
+20;39;full term;10;42;4,46;female;nonsmoker
+32;43;premie;4;3;1,77;male;smoker
+26;36;premie;19;47;1,38;male;smoker
+41;38;premie;2;45;1,22;male;smoker
+34;38;full term;4;44;8,32;male;nonsmoker
+41;27;full term;8;45;5,73;male;smoker
+31;38;full term;7;13;8,62;female;nonsmoker
+38;38;full term;16;76;9;male;nonsmoker
+28;38;premie;8;83;7,68;female;nonsmoker
+18;32;premie;5;72;5,89;male;nonsmoker
+40;36;full term;4;47;5,72;male;nonsmoker
+32;32;premie;6;66;8;male;smoker
+21;30;full term;18;63;3,1;male;nonsmoker
+20;43;full term;4;16;1,32;male;nonsmoker
+15;35;full term;4;14;2,99;male;smoker
+29;28;premie;9;69;3,01;male;smoker
+23;27;full term;17;42;5,67;male;smoker
+25;35;premie;7;20;4,33;female;smoker
+25;41;premie;2;34;3,58;male;nonsmoker
+15;37;full term;5;36;7,52;male;nonsmoker
+18;43;premie;3;3;8,21;male;nonsmoker
+29;31;premie;15;78;1,83;female;nonsmoker
+29;40;full term;4;48;3,13;female;smoker
+27;32;premie;14;84;2,84;male;nonsmoker
+27;34;full term;6;44;8,51;male;nonsmoker
+16;29;premie;13;77;2,46;female;smoker
+39;33;full term;2;74;4,4;male;nonsmoker
+25;39;premie;8;75;2,98;female;nonsmoker
+35;34;premie;18;0;9,29;male;smoker
+29;28;full term;4;29;9,77;female;nonsmoker
+20;38;full term;16;36;5,34;male;smoker
+21;34;full term;12;34;2,45;male;nonsmoker
+39;37;premie;8;76;10;male;nonsmoker
+20;44;premie;9;33;4,66;male;nonsmoker
+37;35;premie;16;10;4,15;male;nonsmoker
+27;27;premie;17;29;7,4;male;smoker
+39;42;premie;6;12;9,47;female;smoker
+19;31;premie;18;47;4,99;female;smoker
+25;26;premie;3;59;1,41;female;smoker
+28;36;full term;9;21;1,84;female;nonsmoker
+34;36;full term;6;16;9,47;male;nonsmoker
+41;40;premie;16;27;8,59;male;nonsmoker
+29;26;full term;14;55;9,69;female;nonsmoker
+15;30;premie;14;60;2,82;male;nonsmoker
+32;31;full term;12;18;3,79;male;smoker
+33;34;full term;8;1;3,47;female;nonsmoker
+15;27;premie;17;79;9,27;female;nonsmoker
+17;31;full term;13;60;4,31;male;nonsmoker
+31;35;premie;17;16;2,95;male;smoker
+16;34;premie;4;66;5,72;female;smoker
+33;30;full term;15;9;8,17;male;smoker
+19;32;full term;4;46;8,63;male;smoker
+24;35;full term;5;79;1,34;female;nonsmoker
+34;37;premie;14;59;3,09;female;smoker
+36;32;full term;14;32;5,91;male;smoker
+21;27;premie;16;78;1,4;male;smoker
+16;34;premie;12;84;8,53;male;nonsmoker
+36;26;full term;12;66;2,45;female;nonsmoker
+25;33;premie;10;74;5,41;female;nonsmoker
+30;30;full term;11;10;1,15;female;nonsmoker
+32;36;premie;10;76;5,44;female;smoker
+38;44;premie;6;65;4,08;male;nonsmoker
+32;42;full term;2;30;2,86;male;smoker
+41;35;full term;16;9;7,88;female;smoker
+29;34;full term;11;82;7,86;male;smoker
+22;40;premie;10;2;5,81;male;smoker
+38;33;premie;12;30;6,41;male;smoker
+21;40;full term;19;40;2,57;male;nonsmoker
+22;33;full term;7;41;7,18;male;smoker
+40;42;premie;5;5;7,58;male;smoker
+21;43;premie;5;50;1,44;male;smoker
+40;41;premie;16;80;3,51;female;nonsmoker
+24;29;full term;19;44;3,36;male;smoker
+37;39;premie;6;30;1,8;female;nonsmoker
+22;40;full term;16;34;2,41;male;nonsmoker
+26;34;premie;2;37;4,98;male;smoker
+18;43;full term;19;32;4,22;male;smoker
+15;26;premie;14;14;7,56;female;smoker
+24;39;full term;16;28;7,57;male;nonsmoker
+34;33;full term;5;69;5,88;male;smoker
+29;42;premie;13;59;5,12;male;smoker
+19;26;premie;17;40;2,61;female;nonsmoker
+31;33;premie;18;39;7,27;male;nonsmoker
+35;28;premie;16;57;5,47;female;nonsmoker
+15;39;full term;3;41;1,38;female;smoker
+38;40;full term;5;47;5,58;male;nonsmoker
+40;38;full term;6;47;1,24;female;nonsmoker
+27;41;full term;12;25;2,19;male;smoker
+15;32;premie;8;62;8,66;male;smoker
+28;41;premie;8;20;5,09;female;smoker
+19;38;full term;4;75;3,64;male;nonsmoker
+34;33;full term;7;46;2;female;nonsmoker
+19;44;full term;15;52;6,3;male;smoker
+25;44;premie;17;17;2,84;male;smoker
+38;28;premie;16;43;8,65;female;smoker
+30;42;full term;18;37;6,07;male;nonsmoker
+15;43;full term;4;17;2,72;female;smoker
+15;40;premie;19;59;5,68;male;smoker
+32;29;full term;2;1;3,7;male;smoker
+17;35;premie;16;77;5,1;male;smoker
+23;31;full term;16;73;8,91;male;nonsmoker
+37;36;full term;5;33;2,9;female;nonsmoker
+16;29;premie;16;47;9,37;male;smoker
+27;34;premie;9;35;8,5;male;nonsmoker
+37;32;full term;14;79;5,02;female;nonsmoker
+27;43;full term;17;32;1,53;female;smoker
+40;40;premie;9;54;5,78;male;nonsmoker
+15;28;premie;18;38;7,76;female;smoker
+31;35;premie;12;7;4,34;female;smoker
+20;31;full term;12;24;1,25;female;nonsmoker
+34;34;full term;12;0;6,82;female;nonsmoker
+31;36;full term;6;60;1,06;female;nonsmoker
+41;29;full term;8;80;4,09;female;smoker
+22;36;premie;15;78;6,27;male;nonsmoker
+29;43;premie;12;42;1,17;female;nonsmoker
+37;44;premie;14;56;3,41;female;smoker
+24;30;full term;16;28;2,07;male;nonsmoker
+19;36;full term;8;27;2,48;male;smoker
+15;26;full term;3;49;9,04;male;smoker
+16;30;full term;9;45;3,64;female;smoker
+27;27;premie;9;42;7,34;female;nonsmoker
+30;43;premie;6;8;5,55;male;nonsmoker
+21;35;full term;12;69;5,32;female;nonsmoker
+40;36;premie;14;75;9,88;female;nonsmoker
+26;30;full term;14;28;9,55;female;smoker
+17;37;premie;11;0;5,47;female;nonsmoker
+31;37;premie;12;29;1,78;female;nonsmoker
+18;44;premie;12;12;8,06;male;smoker
+16;42;full term;8;67;5,85;female;smoker
+22;34;full term;19;64;4,03;female;nonsmoker
+24;39;full term;10;69;2,37;male;smoker
+40;34;full term;3;65;3,09;male;nonsmoker
+20;27;premie;19;50;8,32;female;smoker
+21;35;full term;6;24;1,35;male;smoker
+26;32;premie;13;32;7,33;male;nonsmoker
+20;40;premie;6;42;1,17;female;nonsmoker
+41;42;premie;14;74;3,37;female;nonsmoker
+34;38;full term;12;49;5,04;female;nonsmoker
+35;44;full term;8;28;9,35;female;smoker
+33;36;premie;11;58;6,01;female;nonsmoker
+26;36;full term;13;19;3,75;male;smoker
+41;30;full term;2;41;1,38;male;smoker
+20;40;premie;4;38;7,87;female;nonsmoker
+25;27;premie;14;20;2,66;female;nonsmoker
+41;40;premie;4;11;1,76;female;smoker
+22;33;premie;5;75;3,99;male;smoker
+30;32;full term;6;33;5,09;female;nonsmoker
+39;32;premie;14;30;8,47;male;nonsmoker
+29;36;premie;4;78;8,22;male;nonsmoker
+16;35;full term;17;57;4,62;male;smoker
+15;28;premie;3;7;1,23;female;nonsmoker
+40;28;premie;18;56;1,95;male;smoker
+29;31;premie;10;65;9,7;female;smoker
+37;41;full term;16;41;3,51;female;smoker
+23;39;full term;19;6;6,23;female;smoker
+16;38;premie;14;25;1,05;female;nonsmoker
+19;39;premie;14;1;6,16;male;smoker
+37;34;premie;3;35;5,81;female;nonsmoker
+19;33;full term;2;19;1,79;male;nonsmoker
+36;35;full term;7;0;5,25;female;smoker
+17;37;premie;17;21;6,71;female;smoker
+23;34;full term;19;35;7,09;male;nonsmoker
+26;40;full term;13;51;3,48;female;smoker
+35;37;premie;4;47;5,7;male;smoker
+15;26;full term;8;77;7,82;female;nonsmoker
+19;30;full term;8;53;5,16;male;smoker
+27;33;full term;6;63;3,3;female;smoker
+17;38;premie;16;5;8,21;male;smoker
+40;41;premie;7;39;2,97;female;nonsmoker
+17;26;premie;16;44;8,08;male;smoker
+19;41;full term;18;79;4,6;female;smoker
+24;35;full term;4;28;5,72;male;smoker
+26;38;premie;17;26;9,44;female;smoker
+24;44;full term;16;7;1,21;male;nonsmoker
+31;37;premie;13;54;7,7;male;nonsmoker
+22;43;premie;7;9;5,61;male;nonsmoker
+21;36;full term;9;16;9,6;male;nonsmoker
+21;30;full term;5;43;2,18;male;nonsmoker
+32;26;premie;3;79;1,33;female;smoker
+23;28;premie;8;21;5,59;male;nonsmoker
+19;41;full term;6;52;6,02;male;smoker
+22;42;premie;3;77;4,01;male;smoker
+31;34;premie;17;74;3,1;female;smoker
+24;40;premie;4;20;4,83;male;smoker
+19;38;premie;9;38;6,23;male;smoker
+21;39;premie;19;74;8,16;male;smoker
+16;42;premie;10;56;8,96;female;smoker
+25;37;premie;10;82;1,89;male;smoker
+40;28;premie;14;8;7,41;female;nonsmoker
+29;34;premie;13;62;6,42;female;smoker
+37;39;premie;19;35;3,8;male;nonsmoker
+29;34;premie;10;7;2,62;male;smoker
+32;34;full term;15;20;8,35;male;nonsmoker
+21;39;full term;7;70;2,57;female;smoker
+35;35;premie;12;7;1,38;male;smoker
+21;38;premie;4;6;4,91;male;nonsmoker
+21;30;premie;3;30;1,24;female;smoker
+16;44;premie;13;70;8,89;male;nonsmoker
+16;35;full term;16;8;4,6;male;smoker
+28;38;premie;6;9;2,03;male;smoker
+32;44;premie;13;2;3,1;female;smoker
+17;36;full term;12;34;9,76;female;smoker
+24;30;premie;4;12;9,16;female;smoker
+18;29;full term;11;12;7,44;female;smoker
+35;42;full term;11;43;9,55;male;nonsmoker
+19;28;premie;17;7;1,46;female;nonsmoker
+37;38;full term;7;20;6,81;male;smoker
+25;43;full term;13;58;1,2;male;smoker
+37;27;premie;4;10;8,74;male;smoker
+27;44;full term;15;48;9,65;female;nonsmoker
+41;34;full term;9;59;6,74;female;nonsmoker
+37;40;full term;15;67;6,21;female;smoker
+41;32;premie;6;35;1,74;male;nonsmoker
+33;41;full term;10;47;4,04;female;smoker
+28;41;full term;6;62;4,59;female;smoker
+22;33;premie;4;9;1,91;female;smoker
+28;42;premie;15;80;2,25;male;nonsmoker
+23;29;premie;18;14;6,08;female;smoker
+18;34;full term;8;68;9,28;male;nonsmoker
+37;44;full term;5;48;6,86;male;nonsmoker
+25;39;premie;7;9;4,76;female;nonsmoker
+39;39;premie;17;34;9,72;male;nonsmoker
+15;43;full term;5;74;6,17;female;smoker
+31;33;premie;9;62;3,36;male;nonsmoker
+15;42;full term;5;69;6,06;female;smoker
+32;41;premie;2;14;6,44;female;smoker
+26;42;full term;11;30;5,7;male;nonsmoker
+20;39;full term;2;46;3,96;male;smoker
+41;32;premie;9;33;8,69;female;nonsmoker
+31;37;premie;11;35;7,18;male;smoker
+17;30;premie;12;43;4,17;female;smoker
+25;27;full term;13;80;5,49;female;smoker
+20;36;full term;16;55;2,8;male;nonsmoker
+24;29;premie;12;78;9,49;female;smoker
+21;41;premie;3;71;8,62;female;nonsmoker
+26;33;full term;17;64;8,71;female;smoker
+32;39;full term;19;38;5,32;male;nonsmoker
+22;42;premie;10;74;4,79;male;nonsmoker
+38;43;full term;2;40;8,7;male;nonsmoker
+15;33;full term;13;47;8,74;male;smoker
+40;31;premie;7;16;7,37;female;nonsmoker
+38;42;premie;13;74;8,44;female;smoker
+33;39;full term;3;42;4,44;male;smoker
+32;29;premie;10;75;8,91;male;nonsmoker
+38;26;full term;12;10;1,42;female;nonsmoker
+25;41;premie;2;22;9,15;female;nonsmoker
+23;44;premie;15;34;7,63;male;smoker
+40;37;premie;5;27;3,57;male;nonsmoker
+41;29;premie;4;60;6,43;male;smoker
+31;40;premie;18;32;4,03;male;nonsmoker
+18;29;full term;11;24;5,09;female;nonsmoker
+25;31;premie;14;34;4,71;male;nonsmoker
+26;28;premie;15;7;8,76;female;smoker
+34;36;premie;3;75;3,03;female;nonsmoker
+23;26;full term;14;75;6,3;male;nonsmoker
+24;41;premie;3;73;9,19;female;smoker
+16;34;premie;18;1;4,63;male;nonsmoker
+34;27;full term;8;83;7,44;male;nonsmoker
+29;31;full term;18;49;3,04;male;nonsmoker
+20;40;full term;4;40;8,62;male;smoker
+30;31;full term;7;63;9,08;male;smoker
+27;37;full term;3;1;8,81;female;smoker
+25;33;full term;10;77;7,14;male;smoker
+33;40;premie;8;45;2,37;female;nonsmoker
+20;40;premie;16;73;1,21;male;smoker
+20;29;premie;19;40;1;female;smoker
+30;28;premie;5;14;5,87;female;smoker
+39;41;full term;15;34;1,38;male;smoker
+41;38;premie;13;55;2,21;male;smoker
+23;35;full term;16;34;5,01;male;nonsmoker
+32;39;full term;8;64;5,97;female;nonsmoker
+24;26;full term;4;45;6,79;male;nonsmoker
+35;35;premie;7;3;9,08;female;nonsmoker
+17;28;premie;16;69;8,9;male;smoker
+30;29;full term;19;23;6,55;male;smoker
+20;33;premie;12;54;7,77;female;nonsmoker
+26;43;full term;6;22;3,92;female;smoker
+27;30;premie;13;49;9,67;female;nonsmoker
+26;37;premie;11;22;5,18;female;nonsmoker
+38;29;premie;4;71;4,77;male;smoker
+40;35;premie;5;32;7,29;female;nonsmoker
+16;31;full term;4;73;2,69;female;smoker
+25;39;premie;5;82;8,17;female;nonsmoker
+32;42;premie;15;53;9,48;female;smoker
+33;41;premie;17;66;1,8;male;smoker
+28;40;premie;17;37;5,54;female;smoker
+36;26;premie;2;13;5,23;male;nonsmoker
+18;40;full term;15;37;9,06;female;nonsmoker
+28;40;full term;2;36;8,46;male;smoker
+21;40;full term;11;80;2,86;female;smoker
+38;39;premie;4;82;8,29;male;nonsmoker
+20;30;premie;19;34;7,56;male;nonsmoker
+39;38;premie;17;8;2,28;male;nonsmoker
+32;34;premie;3;66;4,03;male;nonsmoker
+21;28;full term;19;48;9,72;male;smoker
+24;30;premie;9;74;1,72;male;nonsmoker
+37;34;full term;12;63;1,85;female;smoker
+23;28;premie;14;2;1,66;male;smoker
+29;30;full term;12;44;2,15;male;nonsmoker
+19;33;full term;19;59;1,98;male;smoker
+30;33;premie;3;7;6,45;female;smoker
+39;44;full term;15;78;1,41;male;smoker
+16;39;premie;9;28;7,62;female;nonsmoker
+34;40;premie;11;4;7,68;female;nonsmoker
+31;37;premie;6;71;2,91;female;nonsmoker
+26;44;full term;13;40;4,78;female;smoker
+29;39;premie;12;79;7,33;male;smoker
+35;31;premie;19;60;2,76;female;smoker
+38;29;premie;9;78;5,63;male;nonsmoker
+16;36;full term;17;52;6,01;female;nonsmoker
+23;41;premie;14;45;8,25;male;nonsmoker
+28;30;premie;15;20;3,83;male;smoker
+23;40;full term;4;43;2,13;male;nonsmoker
+27;42;premie;5;6;3,44;female;nonsmoker
+19;40;premie;11;24;6,98;female;smoker
+25;39;full term;17;83;5,81;male;smoker
+25;35;full term;9;66;8,05;female;nonsmoker
+40;41;full term;4;62;9,96;male;nonsmoker
+31;30;premie;19;32;8,73;female;nonsmoker
+38;34;premie;19;60;1,08;female;smoker
+16;29;full term;4;46;4,55;male;nonsmoker
+27;28;premie;2;30;9,55;female;nonsmoker
+16;40;full term;2;45;1,69;female;smoker
+19;43;premie;4;77;6,26;male;nonsmoker
+23;27;premie;12;7;7,38;male;smoker
+36;39;full term;4;55;6,86;male;nonsmoker
+20;31;premie;9;2;6,9;female;nonsmoker
+28;34;premie;6;66;6,4;male;smoker
+17;30;full term;13;56;9,18;male;nonsmoker
+30;35;full term;5;50;7,31;male;nonsmoker
+27;38;full term;11;31;1,15;female;smoker
+25;27;full term;9;64;8,7;female;smoker
+26;27;full term;18;81;1,23;female;smoker
+22;28;premie;18;18;3,82;male;nonsmoker
+36;28;premie;16;21;9,95;female;smoker
+20;41;premie;14;24;9,57;female;nonsmoker
+38;41;premie;7;12;8,62;male;nonsmoker
+23;44;premie;7;33;4,36;male;smoker
+17;41;full term;19;36;8,61;female;smoker
+18;39;full term;7;70;8,84;male;nonsmoker
+35;29;premie;8;15;9,72;male;nonsmoker
+39;41;full term;3;74;1,55;male;nonsmoker
+25;42;full term;16;35;5,11;female;smoker
+33;26;full term;17;57;8,48;female;smoker
+15;36;premie;17;32;4,56;male;smoker
+22;33;premie;16;1;9,26;female;nonsmoker
+21;36;premie;3;48;5,81;male;nonsmoker
+40;36;premie;14;4;5,71;female;nonsmoker
+28;41;premie;13;1;2,88;male;smoker
+26;29;premie;3;52;1,26;female;nonsmoker
+24;44;full term;15;52;7,38;female;smoker
+35;36;full term;10;70;5,62;female;smoker
+39;37;full term;6;3;7,16;female;nonsmoker
+16;41;full term;13;20;9,42;male;nonsmoker
+29;44;full term;17;16;6,72;female;smoker
+17;35;premie;16;81;7,66;female;nonsmoker
+31;32;full term;14;29;7,37;male;nonsmoker
+31;37;full term;15;42;7,18;female;nonsmoker
+17;28;premie;10;76;1,63;male;nonsmoker
+27;44;full term;17;28;9,12;female;nonsmoker
+33;30;full term;10;40;6,77;male;smoker
+39;28;full term;18;39;9,68;male;smoker
+37;43;premie;3;61;8,45;male;smoker
+26;44;premie;3;18;6,64;male;smoker
+26;26;full term;2;17;4,44;male;smoker
+31;39;premie;16;18;9,28;female;smoker
+17;44;full term;2;83;9;female;nonsmoker
+24;33;full term;5;64;5,07;male;nonsmoker
+31;33;full term;12;80;1,97;male;nonsmoker
+31;40;premie;3;4;8,78;female;smoker
+38;32;full term;4;2;3,54;male;smoker
+21;34;full term;8;5;9,09;male;smoker
+40;34;full term;5;10;4,08;female;smoker
+26;37;full term;8;63;9,14;female;smoker
+30;30;premie;2;10;4,37;female;smoker
+37;39;full term;12;48;6,58;female;nonsmoker
+21;34;premie;16;33;4,16;male;nonsmoker
+29;28;premie;6;25;7,94;female;smoker
+19;35;full term;2;70;6,93;female;smoker
+32;27;premie;5;72;5,54;female;nonsmoker
+27;37;premie;15;20;6,08;male;nonsmoker
+39;30;full term;14;52;3,33;female;nonsmoker
+37;41;premie;14;18;6,6;male;smoker
+36;29;full term;19;46;3,17;female;nonsmoker
+24;41;premie;5;5;1,38;female;smoker
+37;44;premie;15;34;3,97;male;smoker
+22;27;full term;8;68;6,32;male;nonsmoker
+37;42;premie;14;84;3,61;female;nonsmoker
+26;31;premie;15;50;5,02;male;nonsmoker
+18;26;full term;14;33;1,87;female;nonsmoker
+17;35;premie;13;30;1,36;female;smoker
+38;26;premie;5;55;7,25;male;nonsmoker
+40;29;full term;3;43;4,86;female;smoker
+27;38;premie;18;47;4,92;female;smoker
+23;34;full term;5;65;9,86;female;nonsmoker
+30;34;premie;17;52;6,94;female;smoker
+31;35;premie;18;72;3,01;male;smoker
+32;37;premie;17;70;8,55;male;smoker
+35;35;premie;4;8;4,46;male;nonsmoker
+15;36;full term;14;39;9,76;female;nonsmoker
+16;26;premie;10;74;4,68;female;nonsmoker
+34;37;premie;6;65;3,83;female;smoker
+18;35;premie;13;13;4,54;male;smoker
+36;44;premie;19;76;6,13;female;smoker
+18;27;premie;13;78;3,98;male;nonsmoker
+39;35;premie;13;34;2,33;male;nonsmoker
+20;29;premie;10;71;2,96;female;smoker
+30;44;premie;10;41;3,48;male;smoker
+23;29;full term;9;38;1,66;male;smoker
+29;41;full term;5;9;4,32;female;smoker
+24;26;full term;16;11;9,17;female;smoker
+24;44;premie;12;85;7,74;male;smoker
+26;42;full term;18;23;8,89;female;smoker
+17;39;premie;10;6;5,12;male;smoker
+28;29;full term;5;14;7,3;female;smoker
+30;34;premie;12;21;2,71;female;smoker
+23;36;full term;11;57;5,55;female;smoker
+16;27;premie;16;15;7,96;male;nonsmoker
+15;32;premie;5;10;5,34;female;nonsmoker
